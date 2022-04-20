@@ -24,3 +24,63 @@
 .slider .price_1{
     color:#FF136F;
 }
+.box1 , .box2 , .box3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+    border-radius: 10px;}
+    .box1{
+    background-image: linear-gradient(46deg, #f1ff22, #bf8900);
+    }
+    .box2{
+    background-image: linear-gradient(342deg, #b31a57, #ff75ac);
+    }
+    .box3{
+    background-image: linear-gradient(345deg, #21a3ff, #2f67e7);
+    }
+    .top{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+    .btn1{
+        background-color: black;
+        padding: 4px 24px;
+        color: white;
+        border: navajowhite;
+        border-radius: 6px;
+    }
+    .card_shadow{
+        box-shadow: 4px 9px 16px lightgrey;
+        border: none;
+        padding-bottom: 44px;
+    }
+ .bg{
+    background-color: #dcdcdc;
+    margin-bottom: 26px;
+    padding-bottom: 6px;
+ }
+ .shoe_1{
+    display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      margin-top: 40px;
+      padding-top: 25px;
+  }
+  .shoe_see{
+    color: #FF9D00;
+      text-decoration: none;
+  }
+  .card-body{
+    text-align: center;
+  }
+  .shoe_2{
+    
+    display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      margin-top: 40px;
+  }
+  .bg{
+    background-color: #efecec99;
+  }
