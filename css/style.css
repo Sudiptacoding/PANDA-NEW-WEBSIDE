@@ -1,0 +1,26 @@
+.container .nav-link{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: bold;
+}
+.container .nav-link:hover{
+    background-color: aqua;
+}
+.slider{
+    background-color: #FEEAE9;
+    padding: 3%;
+}
+.text_center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slider .btn{
+    background-image: linear-gradient(266deg, #FF2E80, #e1528a);
+    border: none;
+    color: white;
+    padding: 6px 21px;
+}
+.slider .price_1{
+    color:#FF136F;
+}
