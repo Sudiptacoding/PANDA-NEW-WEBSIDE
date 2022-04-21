@@ -84,3 +84,31 @@
   .bg{
     background-color: #efecec99;
   }
+.card_shadow:hover{
+    background-color:#8ce2ff;
+}
+.btn1:hover{
+    background-color: #4107e1;
+    color: #ff0000;
+}
+.contuct_tx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FEEAE9;
+    border-radius: 9px;
+    margin-top: 60px;
+}
+.btn_contuct{
+    background-image: linear-gradient(74deg, #ff0368, #ff5297);
+    padding: 2px 23px;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top: 4px;
+    border: none;
+}
+footer{
+    margin-top: 89px;
+    font-size: 12px;
+    text-align: center;
+}
